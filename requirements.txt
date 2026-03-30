@@ -1,0 +1,8 @@
+torch
+fastapi
+uvicorn
+pillow
+numpy
+opencv-python
+scikit-image
+pytest
