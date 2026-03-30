@@ -1,0 +1,7 @@
+# Configuration file
+
+model: SimpleCNN
+train_data: /data/train
+val_data: /data/val
+num_epochs: 50
+batch_size: 32

@@ -1,0 +1,11 @@
+# Docker configuration
+
+FROM python:3.9
+
+WORKDIR /app
+
+COPY . .
+
+RUN pip install -r requirements.txt
+
+CMD ["python", "src/api/app.py"]

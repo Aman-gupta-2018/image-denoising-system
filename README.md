@@ -1,3 +1,5 @@
+# Complete project documentation
+
 # Image Denoising System
 
-This repository contains an image denoising system implemented in Python.
+This project implements various image denoising methods, including traditional and deep learning techniques.
